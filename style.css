@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  font-size: 55px;
+}
+body {
+  background-color: white;
+}
+button {
+  font-size: 35px;
+  margin: 25px 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+#red {
+  background-color: red;
+}
+#blue {
+  background-color: blue;
+}
+#green {
+  background-color: green;
+}
+#msg {
+  font-size: 50px;
+  font-weight: 900;
+}
